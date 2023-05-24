@@ -1,0 +1,4 @@
+.vscode
+*fastq.gz
+work/
+.nextflow*
